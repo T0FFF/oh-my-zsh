@@ -1,3 +1,12 @@
+
+
+#FORK (https://github.com/robbyrussell/oh-my-zsh):
+
+sh -c "$(wget https://raw.githubusercontent.com/T0FFF/oh-my-zsh/master/tools/install.sh -O -)"
+
+echo "source /home/<user>/.zshrc" > /root/.zshrc
+
+
 <p align="center">
   <img src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png" alt="Oh My Zsh">
 </p>
